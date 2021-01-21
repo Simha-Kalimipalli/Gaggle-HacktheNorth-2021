@@ -2,7 +2,7 @@
 
 
 ## Hello!
-This is Gaggle! We (Simha K, Kayla C, Julia J and Laura P) made this for Hack the North 2020++ . It was made using HTML / CSS / Pthon using Flask, pandas, pandadsql, bootstrap and geocoder! Read more  below!
+This is Gaggle! We (Simha K, Kayla C, Julia J and Laura P) made this for Hack the North 2020++ . It was made with  HTML / CSS / Python using Flask, Pandas, Pandadsql, Bootstrap and Geocoder! Read more below!
 
 ![alt text](https://github.com/Simha-Kalimipalli/Gaggle-HacktheNorth-2021/blob/main/static/gaggle.png "image")
 
