@@ -50,4 +50,4 @@ We learned how to collaborate with one another given the circumstances with the 
 We think that this idea would be a great resource for students across Canada but obviously it still would need a lot of work before we are ready to turn it into a real website. In the future, we would love for the app to go beyond just STEM opportunities to include sporting events, art opportunities, and more. 
 
 _____________
-### [I'm an inline-style link ](https://devpost.com/software/gaggle-casy2h "Our Devpost: ")
+### [Our Devpost: ](https://devpost.com/software/gaggle-casy2h " Our Devpost:")
